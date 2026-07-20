@@ -1,0 +1,304 @@
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+ .icon {
+    display: none !important;
+}
+
+
+ .text1{
+    font-size: 45px !important;
+ }
+.text2{
+    font-size: 27px !important;
+}
+.text3{
+    font-size: 19px !important;
+}
+.text4{
+    font-size: 20px !important;
+}
+.stars{
+    font-size: 25px;
+}
+.text5{
+    font-size: 25px;
+}
+.row-text{
+    font-size: 14px;
+}
+.card-img-top{
+    width:290px;
+}
+.index{
+    width:200px;
+}
+.card 
+{
+    width: 18rem !important;
+}
+.img1 img 
+{
+    width: 60% !important;
+}
+.container-fluid.index.px-4 {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.btn {
+    align-items: center;
+    top: 67%;
+    left: 8%;
+    position: absolute;
+}
+.wi{
+    width: 15rem !important;}
+
+    .photo
+    {
+        width: 15rem !important;
+        flex-direction: column;
+    }
+.content {
+    width: fit-content;
+}
+
+ .solidd{
+    font-size: 20px;}
+ .solidd1{
+     margin-top: 10px;
+    top: 50%;
+    font-size: 20px;}
+    .soliddtext{
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .solidd2 {
+    padding-bottom: 20px;
+}
+
+.bar {
+    padding: 1rem!important;
+}
+.logo1{
+    
+    gap: 3rem!important;
+    display: flex;
+    margin-left: -20px;
+    margin-top: 10px;
+
+}
+.menubar {
+    width: 40px !important;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+.btn {
+    align-items: center;
+    top: 56% !important;
+    left: 10% !important;
+    position: absolute;
+}
+.search {
+    display: none !important;
+}
+.jkphone {
+    position: relative;
+    left: 2px;
+    top: 10px;
+    font-size: 15px;
+    width: fit-content;
+}
+     /* .ab{
+    position: relative;
+    top: -80px !important;
+}
+.ft {
+    position: relative;
+    top: -160px !important;
+}
+.ft2 {
+    
+    position: relative;
+    top: -160px !important;
+} */
+ .st1{
+
+    font-size: 19px;
+ }
+ .cf{
+    position: relative;
+    left: 8%;
+}
+}
+
+
+@media screen and (min-width:481px) and (max-width:769px)
+{
+   .h6 {
+    font-size: 10px;
+}
+.btn {
+    align-items: center;
+    top: 50%;
+    left: 8%;
+    font-size: 12px;
+    border:none;
+    position: absolute;
+}
+.text1{
+    font-size: 45px !important;
+ }
+
+ .text2{
+    font-size: 27px !important;
+}
+.text3{
+    font-size: 19px !important;
+
+}
+.text4{
+    font-size: 20px !important;
+}
+.stars{
+    font-size: 25px;
+}
+.text5{
+    font-size: 25px;
+}
+.icon{
+    gap: 0px !important;
+}
+.style{
+    padding: 0px !important;
+}
+.logo{
+    height: 40px !important;
+}
+.search{
+    gap: 0px !important;
+}
+.cardss{
+    width: 9rem !important;
+}
+.txt{
+    font-size: 12px !important;
+}
+.review{
+    font-size: 12px !important;
+}
+.card-text{
+    font-size: 12px !important;
+    justify-content: center;
+    text-align: center;
+    border:none;
+}
+.card-img-topp{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 15rem !important;
+}
+
+
+.element-style {
+    
+    z-index: 10;
+    position: relative;
+    left: 100px;
+    top: 6px;
+    width: 50px !important;
+    bottom: 148px;
+}
+
+.img2 {
+    position: relative;
+    z-index: 9;
+    top: 50px;
+    left: 0px;
+    width: 150%;
+}
+
+.img3 {
+    width: 150%;
+}
+
+.card-img{
+    width:fit-content !important;
+}
+.buyy-btn {
+    font-size: 14px !important;
+    border: none;
+    width: 80px;
+    height: 36px;
+    border-radius: 10px !important;
+}
+
+.footer{
+    padding-left: 4rem;
+}
+.icon{
+    display:flex !important;
+}
+.wi{
+    width: 15rem !important;
+    align-items: center;
+}
+.btn {
+    align-items: center;
+    top: 66%;
+    left: 8%;
+    position: absolute;
+}
+.menubar{
+    padding-top: 10px;
+    width: 50%;
+    max-width: 50px;
+    position: absolute;
+    left: 80%;
+    top: 75px;
+
+}
+.logo1 {
+    position: relative;
+    top: 5px;
+    padding-top : 10px;
+}
+.search {
+    display: none !important;
+}
+.solidd1{
+    font-size: 20px;
+    margin-top: 10px;    
+
+}
+
+.soliddtext{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.solidd2 {
+    padding-bottom: 20px;
+}
+.glasses{
+    
+    display:none !important;
+    }
+     marquee .row1{
+        position: relative;
+        width: 75% !important;
+     }
+     .icon{
+        display:none !important;
+     }
+     .slide{
+        padding-top: 30px !important;
+     }
+     .bbtn{
+        min-width: 120px !important;
+        
+        font-size: 15px !important;
+     }
+
+
+}
